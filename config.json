@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderepdate",
+        "uuid": 3028518,
+        "checksum": "dkjk5j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
